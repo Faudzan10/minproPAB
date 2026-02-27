@@ -9,36 +9,38 @@
 
 *Tambah Adopsi*
 
-Klik Tambah dipojok kanan bawah
-
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/858f4124-ff4f-482f-b18c-c07a546aa1a4" />
 
+Klik Tambah dipojok kanan bawah
 
-Lalu Pilih Kategori Hewan
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a5fa1a30-9f0c-4f51-abc9-8f386872e61f" />
 
+Lalu Pilih Kategori Hewan
 
-Lalu pilih jenis hewan
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fe2b8655-3829-4aea-aa95-6623d7aa5f41" />
 
+Lalu pilih jenis hewan
 
-Lalu isi Warna, Lokasi Shelter, dan juga Kontak
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3082d0e7-08d9-4470-9b95-86eeb6e57a37" />
 
+Lalu isi Warna, Lokasi Shelter, dan juga Kontak
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3c41cc63-bf5b-4425-b859-d5a4aa17110f" />
 
 Jika input kosong maka tidak bisa menanmbahkan adopsi hewan
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3c41cc63-bf5b-4425-b859-d5a4aa17110f" />
 
 
 *Hapus Adopsi*
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/994c1432-7491-47dc-ad6b-8827bad4b4d9" />
+
 Jika mau hapus Adopsi klik icon sampah disebelah kanan
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/994c1432-7491-47dc-ad6b-8827bad4b4d9" />
 
 
 *Update Adopsi*
