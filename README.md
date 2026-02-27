@@ -1,6 +1,103 @@
 # Minpro_PAB
 
 
+# **PetCare Shelter 🐾**
+
+## **Deskripsi Aplikasi**
+PetCare Shelter adalah aplikasi mobile berbasis Flutter yang digunakan untuk mengelola data hewan yang tersedia untuk diadopsi.  
+Aplikasi ini memungkinkan pengguna untuk menambahkan, melihat, mengedit, dan menghapus data hewan berdasarkan kategori dan jenisnya.
+
+---
+
+## **Fitur Aplikasi**
+
+### Create (Tambah Data)
+Pengguna dapat menambahkan data hewan dengan mengisi:
+- Kategori Hewan (Mamalia, Reptil, Unggas)
+- Jenis Hewan (Anjing, Kucing, Hamster, Sugar Glider, dll)
+- Warna
+- Lokasi Shelter
+- Kontak
+
+### Read (Tampilkan Data)
+Menampilkan daftar hewan yang tersedia dalam bentuk ListView.
+
+### Update (Edit Data)
+Data hewan dapat diperbarui dengan menekan item pada daftar.
+
+### Delete (Hapus Data)
+Data dapat dihapus menggunakan tombol delete.
+
+### Validasi Form
+Data tidak dapat disimpan jika ada field yang kosong.
+
+### Multi Page Navigation
+Menggunakan Navigator untuk berpindah halaman antara:
+- Halaman Utama
+- Halaman Tambah/Edit Hewan
+
+---
+
+## **Kategori dan Jenis Hewan**
+
+### Mamalia
+- Anjing
+- Kucing
+- Kelinci
+- Hamster
+- Marmut
+- Sugar Glider
+
+### Reptil
+- Ular
+- Iguana
+- Kura-kura
+
+### Unggas
+- Ayam
+- Bebek
+- Burung Kicau
+
+---
+
+## **Widget yang Digunakan**
+
+Berikut adalah widget utama yang digunakan dalam aplikasi ini:
+
+- MaterialApp
+- Scaffold
+- AppBar
+- ListView.builder
+- Card
+- ListTile
+- Icon
+- FloatingActionButton
+- Navigator
+- MaterialPageRoute
+- Form
+- GlobalKey
+- TextFormField
+- DropdownButtonFormField
+- ElevatedButton
+- Padding
+- SizedBox
+- Center
+- Text
+
+---
+
+## **Teknologi yang Digunakan**
+- Flutter
+- Dart
+
+---
+
+## **Author**
+Nama: (Isi Nama Kamu)  
+NIM: (Isi NIM Kamu)  
+Mata Kuliah: Pemrograman Aplikasi Bergerak  
+
+
 
 
 ============================================================================================
