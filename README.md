@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# minpro_1
-
-A new Flutter project.
-=======
 # Minpro_PAB
 
 
@@ -14,46 +9,54 @@ A new Flutter project.
 
 *Tambah Adopsi*
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cf1b2447-e81e-4bfd-b1e7-9312d8882a22" />
-
 Klik Tambah dipojok kanan bawah
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/49947004-6fb1-4a4b-b3e1-08e453db57cf" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/858f4124-ff4f-482f-b18c-c07a546aa1a4" />
+
 
 Lalu Pilih Kategori Hewan
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3a9d01a2-bf68-446e-815d-946adefe30bf" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a5fa1a30-9f0c-4f51-abc9-8f386872e61f" />
+
 
 Lalu pilih jenis hewan
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e97b9d98-4b57-4b5d-8793-dba97b490f0a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fe2b8655-3829-4aea-aa95-6623d7aa5f41" />
+
 
 Lalu isi Warna, Lokasi Shelter, dan juga Kontak
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bc2375a5-efe3-4988-ad99-d304a1278500" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3082d0e7-08d9-4470-9b95-86eeb6e57a37" />
+
 
 Jika input kosong maka tidak bisa menanmbahkan adopsi hewan
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3c41cc63-bf5b-4425-b859-d5a4aa17110f" />
 
 
 *Hapus Adopsi*
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9e511d7e-5385-42e2-acf8-e0d0d8f50a91" />
-
 Jika mau hapus Adopsi klik icon sampah disebelah kanan
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/994c1432-7491-47dc-ad6b-8827bad4b4d9" />
+
 
 *Update Adopsi*
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5dda0489-2ce1-46e3-a28d-607cc52ead23" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3222f954-a17d-4b73-a1d3-5718b497f5e8" />
 
 Klik Adopsi tersebut, lalu ubah yang mau di ubah, lalu klik update
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/301a87a1-9418-4634-b8c6-b722354c2d98" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a61ffd61-d9b6-4d3d-aed6-da153d9af516" />
 
 Update berhasil
 
 *Read Adopsi*
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e4966320-20f9-4319-b14d-c4582c2ca9bb" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/00d39723-c38b-4e56-addb-b10e319a3323" />
 
 Jika mau liat data adopsi yang udah dibuat
->>>>>>> 7023b8847946173ba2408b2d4cf04c3ea4f6684e
+
+
