@@ -1,8 +1,8 @@
-# Minpro_PAB
-
-
 # **PetCare Shelter 🐾**
+**Nama:** Muhammad Irdhan Nur Faudzan  
+**NIM:** 2409116077  
 
+---
 ## **Deskripsi Aplikasi**
 PetCare Shelter adalah aplikasi mobile berbasis Flutter yang digunakan untuk mengelola data hewan yang tersedia untuk diadopsi.  
 Aplikasi ini memungkinkan pengguna untuk menambahkan, melihat, mengedit, dan menghapus data hewan berdasarkan kategori dan jenisnya.
